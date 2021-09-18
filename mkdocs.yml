@@ -1,9 +1,9 @@
 site_name: MkDocs中文文档
-site_url: https://mkdocs.zimoapps.com
+site_url: https://1221de.github.io/mkcn
 site_description: 非官方的MkDocs中文文档。
 site_author: zimo
 
-repo_url: https://github.com/zimocode/mkdocs-docs-zh/
+repo_url: https://github.com/1221de/mkcn/
 edit_uri: ""
 
 theme:
@@ -40,7 +40,6 @@ markdown_extensions:
         repo: mkdocs
 
 copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>. <a href="http://www.beian.miit.gov.cn" target="_blank">蜀ICP备19036239号</a>
-# google_analytics: ['UA-27795084-5', 'mkdocs.org']
 
 plugins:
     - search
